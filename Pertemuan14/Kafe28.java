@@ -16,4 +16,3 @@ public class Kafe28 {
         System.out.println("4. Espresso - Rp 20,000");
     }
 }
-8
